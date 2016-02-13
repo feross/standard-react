@@ -10,9 +10,13 @@
 [downloads-image]: https://img.shields.io/npm/dm/standard-react.svg
 [downloads-url]: https://npmjs.org/package/standard-react
 
-### With extra rules for React.
+### For React users
 
-JavaScript Standard Style, with [extra rules](https://github.com/feross/eslint-config-standard-react) for React.
+`standard` v6 removed React-specific linting rules (see: [standard/#351](https://github.com/feross/standard/issues/351), [standard/#367](https://github.com/feross/standard/issues/367), and [eslint-config-standard-react/#13](https://github.com/feross/eslint-config-standard-react/pull/13)) to make `standard` usable for folks who use React alternatives like `virtual-dom` or `deku`.
+
+JSX is still supported in `standard` and React users are still encouraged to the main `standard` package. But if you want the old behavior back, with React-specific rules, you can use `standard-react`.
+
+The extra rules come from [eslint-config-standard](https://github.com/feross/eslint-config-standard-react).
 
 ## Install
 
