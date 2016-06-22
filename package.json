@@ -1,6 +1,6 @@
 {
   "name": "standard-react",
-  "description": "JavaScript Standard Style",
+  "description": "JavaScript Standard Style (for React users)",
   "version": "2.0.1",
   "author": {
     "email": "feross@feross.org",
@@ -23,7 +23,7 @@
     "xtend": "^4.0.1"
   },
   "devDependencies": {
-    "cross-spawn-async": "^2.1.8",
+    "cross-spawn": "^4.0.0",
     "tape": "^4.4.0"
   },
   "homepage": "http://standardjs.com",
