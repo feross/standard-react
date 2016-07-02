@@ -1,11 +1,11 @@
 {
-  "name": "standard-react",
-  "description": "JavaScript Standard Style (for React users)",
-  "version": "2.1.0",
+  "name": "standard-react-native",
+  "description": "JavaScript Standard Style (for React-Native users)",
+  "version": "1.0.0",
   "author": {
-    "email": "feross@feross.org",
-    "name": "Feross Aboukhadijeh",
-    "url": "http://feross.org/"
+    "email": "chenxsan@gmail.com",
+    "name": "Sam Chen",
+    "url": "https://www.zfanw.com/blog/"
   },
   "bin": "./bin/cmd.js",
   "bugs": {
@@ -18,6 +18,7 @@
     "eslint-config-standard-react": "2.5.0",
     "eslint-plugin-promise": "^1.0.8",
     "eslint-plugin-react": "^5.0.1",
+    "eslint-plugin-react-native": "^1.1.0",
     "eslint-plugin-standard": "^1.3.1",
     "standard-engine": "^4.0.0",
     "xtend": "^4.0.1"
@@ -57,7 +58,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/feross/standard.git"
+    "url": "git://github.com/chenxsan/standard-react-native.git"
   },
   "scripts": {
     "test": "./bin/cmd.js --verbose && tape test/*.js",
