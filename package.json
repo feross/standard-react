@@ -19,7 +19,7 @@
     "eslint-plugin-promise": "^2.0.0",
     "eslint-plugin-react": "^6.1.2",
     "eslint-plugin-standard": "^2.0.0",
-    "standard-engine": "^4.1.0",
+    "standard-engine": "^5.0.3",
     "xtend": "^4.0.1"
   },
   "devDependencies": {
