@@ -1,4 +1,4 @@
-# JavaScript Standard Style
+# standard-react
 [![travis][travis-image]][travis-url]
 [![npm][npm-image]][npm-url]
 [![downloads][downloads-image]][downloads-url]
@@ -9,6 +9,18 @@
 [npm-url]: https://npmjs.org/package/standard-react
 [downloads-image]: https://img.shields.io/npm/dm/standard-react.svg
 [downloads-url]: https://npmjs.org/package/standard-react
+
+### DEPRECATED
+
+This package (`standard-react`) is **DEPRECATED**. Supporting `standard` already takes
+a ton of time. Supporting a fork isn't worth the effort, especially since this gets
+less than 200 downloads per month, half of which are probably bots. There are only
+a handful of extra rules this package provides anyway...
+
+`v3.0.0` will be the last version of this package. It corresponds to the `v8.0.0`
+release of standard.
+
+If someone wants to become the new maintainer, send me an email.
 
 ### For React users
 
