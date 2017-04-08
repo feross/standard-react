@@ -28,7 +28,7 @@ If someone wants to become the new maintainer, send me an email.
 
 JSX is still supported in `standard` and React users are still encouraged to the main `standard` package. But if you want the old behavior back, with React-specific rules, you can use `standard-react`.
 
-The extra rules come from [eslint-config-standard](https://github.com/feross/eslint-config-standard-react).
+The extra rules come from [eslint-config-standard-react](https://github.com/feross/eslint-config-standard-react).
 
 ## Install
 
