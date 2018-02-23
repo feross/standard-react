@@ -1,4 +1,6 @@
 # standard-react
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/feross/standard-react.svg)](https://greenkeeper.io/)
 [![travis][travis-image]][travis-url]
 [![npm][npm-image]][npm-url]
 [![downloads][downloads-image]][downloads-url]
